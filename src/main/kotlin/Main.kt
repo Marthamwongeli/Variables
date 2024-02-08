@@ -24,15 +24,24 @@
 //
 //        var names = arrayOf("martha","mutua" "yvonne,mwende")
 
-
-}
-
 fun main(){
-    var names: String ="JamesOlenKatai"
-    var age: Byte = 25
-    var number: Int = 0-719265993
-    var weight : Byte = 54
-    var kenyanCitizen : Boolean = true
+    var name = "Naomingilu"
+    println(name)
+    var age = 25
+    println(age)
+    var phoneNumber = "0719265663"
+    println(phoneNumber)
+    var weightKg = 54.5F
+    println(weightKg)
+    var citizenship: String = "kenyan"
+    println(citizenship)
+
+
+
+
+
 
 
 }
+
+
